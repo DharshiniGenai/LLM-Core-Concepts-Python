@@ -1,0 +1,19 @@
+# Core scientific computing
+numpy
+
+# Deep learning backend
+torch
+
+# Hugging Face ecosystem
+transformers
+huggingface-hub
+
+# Sentence embeddings (semantic search project)
+sentence-transformers
+
+# Machine learning utilities
+scikit-learn
+
+# Optional but useful for stability
+tqdm
+regex

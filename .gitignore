@@ -1,0 +1,65 @@
+# ==============================
+# Python cache files
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# Virtual environments
+# ==============================
+venv/
+env/
+ENV/
+.venv/
+
+# ==============================
+# Jupyter Notebook checkpoints
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# IDE files (VS Code / PyCharm)
+# ==============================
+.vscode/
+.idea/
+
+# ==============================
+# System files
+# ==============================
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Hugging Face cache (VERY IMPORTANT)
+# prevents large model files from uploading
+# ==============================
+.cache/
+huggingface/
+~/.cache/huggingface/
+
+# ==============================
+# PyTorch / model checkpoints
+# ==============================
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# ==============================
+# Logs
+# ==============================
+*.log
+
+# ==============================
+# Output / runtime files (optional safety)
+# ==============================
+output/
+outputs/
+runs/
+
+# ==============================
+# Environment variables
+# ==============================
+.env
+.env.local
